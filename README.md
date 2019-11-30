@@ -12,4 +12,4 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 5. Examine burials by month. Are there months with higher burials? What are the top five causes of death for each month?
 
-6. And other question..
+6. And other questions..
