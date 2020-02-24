@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./burial_site.jpg" alt="logo" width="536" height="493"/>
+</p>
+
 # City of Nashville historic burial data cleaning and analysis
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
