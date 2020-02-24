@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./burial_site.jpg" alt="logo" width="536" height="493"/>
+    <img src="./burial_site.jpg" alt="logo" width="500" height="325"/>
 </p>
 
 # City of Nashville historic burial data cleaning and analysis
